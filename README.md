@@ -86,8 +86,10 @@ If you like this portfolio, please ⭐ the repository — it motivates me!
 
 ### 📬 Contact
 
-📧 Email: salonitomar5813@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/saloni-tomar-68821423a
-🐙 GitHub: https://github.com/19salonitomar
+- 📧 Email: salonitomar5813@gmail.com
 
-<p align="center"> Made with ❤️ using React.js </p> ```
+- 🔗 LinkedIn: https://www.linkedin.com/in/saloni-tomar-68821423a
+
+- 🐙 GitHub: https://github.com/19salonitomar
+
+<p align="center"> Made with ❤️ using React.js </p> 
